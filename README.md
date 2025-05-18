@@ -1,6 +1,7 @@
-# 🔐 Ethical Hacking Project
-
-## Scanning and Enumerating a Local Network with Nmap
+# 🔐 Ethical Hacking Project : Simulating Real-World Network Exploitation and Defense
+**Author** : Aditya Raj  
+**Semester** : 6  
+**Branch** : Cyber Security  
 
 ## Table of Contents
 
